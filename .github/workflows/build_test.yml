@@ -5,6 +5,7 @@ on:
     branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
+  workflow_dispatch: 
 jobs:
   npm_security_test:
     runs-on: ubuntu-latest
