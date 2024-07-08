@@ -3,4 +3,4 @@
 # STUDENT REGISTRY APP
 Sample app for student registry
 
-[STUDENT REGISTRY APP LINK](https://student-registry-app-hj65.onrender.com)
+[STUDENTS REGISTRY APP LINK](https://student-registry-app-hj65.onrender.com)
